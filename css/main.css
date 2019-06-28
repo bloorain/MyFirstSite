@@ -1,4 +1,8 @@
-﻿.content-title {
+﻿body {
+	background: yellowgreen;
+}
+
+.content-title {
 	font-size: 32px;
 	color: red;
 }
